@@ -1,0 +1,182 @@
+[
+  [
+    {
+      "Name": "csv_obj.csv",
+      "Type": "File",
+      "Parent dir": "home_work",
+      "Size": 517
+    }
+  ],
+  [
+    {
+      "Name": "c_1",
+      "Type": "Dir",
+      "Parent dir": "home_work",
+      "Size": 68079
+    },
+    [
+      [
+        {
+          "Name": "c_2",
+          "Type": "Dir",
+          "Parent dir": "c_1",
+          "Size": 61196
+        },
+        [
+          [
+            {
+              "Name": "c_4",
+              "Type": "Dir",
+              "Parent dir": "c_2",
+              "Size": 61075
+            },
+            [
+              [
+                {
+                  "Name": "c_5",
+                  "Type": "Dir",
+                  "Parent dir": "c_4",
+                  "Size": 61075
+                },
+                [
+                  [
+                    {
+                      "Name": "f_7.txt",
+                      "Type": "File",
+                      "Parent dir": "c_5",
+                      "Size": 0
+                    }
+                  ],
+                  [
+                    {
+                      "Name": "photo_2022-11-22_13-38-04.jpg",
+                      "Type": "File",
+                      "Parent dir": "c_5",
+                      "Size": 61075
+                    }
+                  ]
+                ]
+              ],
+              [
+                {
+                  "Name": "f_6.txt",
+                  "Type": "File",
+                  "Parent dir": "c_4",
+                  "Size": 0
+                }
+              ]
+            ]
+          ],
+          [
+            {
+              "Name": "c_8",
+              "Type": "Dir",
+              "Parent dir": "c_2",
+              "Size": 61075
+            },
+            [
+              [
+                {
+                  "Name": "f_10.txt",
+                  "Type": "File",
+                  "Parent dir": "c_8",
+                  "Size": 0
+                }
+              ]
+            ]
+          ],
+          [
+            {
+              "Name": "f_3.txt",
+              "Type": "File",
+              "Parent dir": "c_2",
+              "Size": 0
+            }
+          ],
+          [
+            {
+              "Name": "f_4.txt",
+              "Type": "File",
+              "Parent dir": "c_2",
+              "Size": 0
+            }
+          ]
+        ]
+      ],
+      [
+        {
+          "Name": "c_3",
+          "Type": "Dir",
+          "Parent dir": "c_1",
+          "Size": 61196
+        },
+        [
+          [
+            {
+              "Name": "f_5.txt",
+              "Type": "File",
+              "Parent dir": "c_3",
+              "Size": 0
+            }
+          ],
+          [
+            {
+              "Name": "yyhhy.txt",
+              "Type": "File",
+              "Parent dir": "c_3",
+              "Size": 121
+            }
+          ]
+        ]
+      ],
+      [
+        {
+          "Name": "f_1.txt",
+          "Type": "File",
+          "Parent dir": "c_1",
+          "Size": 0
+        }
+      ],
+      [
+        {
+          "Name": "f_2.txt",
+          "Type": "File",
+          "Parent dir": "c_1",
+          "Size": 0
+        }
+      ]
+    ]
+  ],
+  [
+    {
+      "Name": "json_obj.json",
+      "Type": "File",
+      "Parent dir": "home_work",
+      "Size": 3685
+    }
+  ],
+  [
+    {
+      "Name": "pickle_obj.pickle",
+      "Type": "File",
+      "Parent dir": "home_work",
+      "Size": 849
+    }
+  ],
+  [
+    {
+      "Name": "task_home.py",
+      "Type": "File",
+      "Parent dir": "home_work",
+      "Size": 1809
+    }
+  ],
+  [
+    {
+      "Name": "__init__.py",
+      "Type": "File",
+      "Parent dir": "home_work",
+      "Size": 23
+    }
+  ]
+]
